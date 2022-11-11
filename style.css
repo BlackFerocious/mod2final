@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+h3 {
+  color: white;
+}
+
+a {
+  backface-visibility: visible;
+  background-color: rgb(160, 124, 124);
+  color: rgb(255,255,255);
+  border-radius: 8px;
+  padding: 4px;
+  margin: 10px;
+}
+
+.eli {
+  text-decoration: none;
+  display: inline-block;
+  list-style: none;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  border-radius: 10px;
+  border-color: red;
+  border-width: 8px;
+  border-style:groove;
+}
+
+p {
+  font-size: 20px;
+}
+
+.menu {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.memeber {
+  color: white;
+  text-align: center;
+  list-style: circle;
+}
+
+.clubList {
+  color: white;
+  text-align: center;
+}
+
+.copyright {
+  color: rgb(76, 61, 61);
+  font-size: 11px;
+  font-family: sans-serif;
+}
